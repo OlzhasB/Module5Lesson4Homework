@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\biahm\source\repos\module5lesson4homework\module5lesson4homework\source.cpp(24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\biahm\source\repos\module5lesson4homework\module5lesson4homework\source.cpp(37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\biahm\source\repos\module5lesson4homework\module5lesson4homework\source.cpp(41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\biahm\source\repos\module5lesson4homework\module5lesson4homework\source.cpp(439): warning C4101: 'j': unreferenced local variable
+  Module5Lesson4Homework.vcxproj -> C:\Users\biahm\source\repos\Module5Lesson4Homework\Debug\Module5Lesson4Homework.exe
